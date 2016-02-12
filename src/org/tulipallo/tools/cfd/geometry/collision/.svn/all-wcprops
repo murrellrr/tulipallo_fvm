@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision
+END
+Disjointed.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/Disjointed.java
+END
+LineIntersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/LineIntersection.java
+END
+Coincident.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/Coincident.java
+END
+PointIntersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/PointIntersection.java
+END
+CoincidentSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/CoincidentSegment.java
+END
+IntersectionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/IntersectionResult.java
+END
+SubjectIntersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/SubjectIntersection.java
+END
+SegmentIntersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/SegmentIntersection.java
+END
+ClosestPointOfApproach.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/collision/ClosestPointOfApproach.java
+END

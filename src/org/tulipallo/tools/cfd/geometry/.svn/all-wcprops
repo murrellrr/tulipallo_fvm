@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry
+END
+Orientation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/Orientation.java
+END
+Ray.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/11/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/Ray.java
+END
+Plane.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/Plane.java
+END
+TriangleList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/TriangleList.java
+END
+DegeneratePlaneException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/DegeneratePlaneException.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/11/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/Segment.java
+END
+Axis.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/Axis.java
+END
+Triangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/11/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/Triangle.java
+END
+DegenerateTriangleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/DegenerateTriangleException.java
+END
+XAxisValueAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/XAxisValueAccessor.java
+END
+VectorMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/VectorMath.java
+END
+YAxisValueAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/YAxisValueAccessor.java
+END
+AxialValueAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/AxialValueAccessor.java
+END
+ZAxisValueAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/ZAxisValueAccessor.java
+END
+LargestAxisComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/LargestAxisComparator.java
+END
+InvalidTupleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/InvalidTupleException.java
+END
+TupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/TupleFactory.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/11/trunk/projects/Java%20Finite%20Volume%20Method/src/org/tulipallo/tools/cfd/geometry/Line.java
+END
